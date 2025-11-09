@@ -68,3 +68,24 @@
 {"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"acquisitions-api"}
 {"level":"error","message":"Signup error User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///C:/Users/HP/acquisitions/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///C:/Users/HP/acquisitions/src/controllers/auth.controller.js:21:18)"}
 {"level":"info","message":"::1 - - [09/Nov/2025:06:31:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:08:41 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:08:47 +0000] \"GET /health HTTP/1.1\" 200 65 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:08:56 +0000] \"POST / HTTP/1.1\" 404 140 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:09:05 +0000] \"GET / HTTP/1.1\" 200 13 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:09:11 +0000] \"GET /health HTTP/1.1\" 200 64 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:57 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:58 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:58 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:58 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:59 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:10:59 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:11:00 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:11:00 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:11:00 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"ip":"::1","level":"warn","message":"Rate limit exceeded","path":"/health","service":"acquisitions-api","userAgent":"HTTPie"}
+{"level":"info","message":"::1 - - [09/Nov/2025:07:11:00 +0000] \"GET /health HTTP/1.1\" 403 51 \"-\" \"HTTPie\"","service":"acquisitions-api"}
