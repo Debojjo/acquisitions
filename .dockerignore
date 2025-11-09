@@ -1,0 +1,17 @@
+# Ignore files not needed in the image/context
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+.git
+.gitignore
+.neon_local/
+.env
+.env.*
+*.local
+coverage
+build
+.tmp
+.cache
