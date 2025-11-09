@@ -1,0 +1,70 @@
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:11:47:05 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:12:26 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:14:00 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:14:15 +0000] \"GET /api/auth HTTP/1.1\" 404 147 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:14:21 +0000] \"GET /api/auth/sign-in HTTP/1.1\" 404 155 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:14:33 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:12:14:57 +0000] \"GET /sign-up HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:13:17:47 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:16:57 +0000] \"GET /health HTTP/1.1\" 200 66 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:23:10 +0000] \"GET / HTTP/1.1\" 200 13 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:23:18 +0000] \"GET /signup HTTP/1.1\" 404 145 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:23:36 +0000] \"POST /api/auth/signup HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:25:52 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:26:06 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:27:22 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [08/Nov/2025:14:34:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:44:54 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Nov/2025:05:45:01 +0000] \"GET /health HTTP/1.1\" 200 64 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [09/Nov/2025:05:45:02 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:47:30 +0000] \"GET / HTTP/1.1\" 200 13 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:47:43 +0000] \"GET /health HTTP/1.1\" 200 65 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:47:59 +0000] \"GET /api/auth/sign-up HTTP/1.1\" 404 155 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:48:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:48:12 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 400 144 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:48:18 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:48:26 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 196 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:51:55 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 400 92 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User deb@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: deb@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:05:53:32 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 96 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///C:/Users/HP/acquisitions/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///C:/Users/HP/acquisitions/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:29:53 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User deb@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: deb@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:30:01 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User deb@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: deb@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:30:34 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///C:/Users/HP/acquisitions/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///C:/Users/HP/acquisitions/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:30:43 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:31:02 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User deb@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: deb@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:31:13 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 108 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///C:/Users/HP/acquisitions/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///C:/Users/HP/acquisitions/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:31:20 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:31:30 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"HTTPie\"","service":"acquisitions-api"}
+{"level":"error","message":"Error creating the user: Error: User with this email already exists","service":"acquisitions-api"}
+{"level":"error","message":"Signup error User with this email already exists","service":"acquisitions-api","stack":"Error: User with this email already exists\n    at createUser (file:///C:/Users/HP/acquisitions/src/services/auth.service.js:34:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async signup (file:///C:/Users/HP/acquisitions/src/controllers/auth.controller.js:21:18)"}
+{"level":"info","message":"::1 - - [09/Nov/2025:06:31:39 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 409 31 \"-\" \"HTTPie\"","service":"acquisitions-api"}
